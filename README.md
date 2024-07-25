@@ -17,6 +17,8 @@ Access all 18 chapters and 700 shlokas of the Bhagavad Gita. Explore the verses 
 Our intuitive design ensures easy navigation and a smooth user experience, making it effortless to find and read specific chapters or shlokas.
 
 
+
+
 <div align = "center">
 
  
