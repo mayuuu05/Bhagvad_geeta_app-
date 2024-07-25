@@ -4,16 +4,16 @@ Welcome to the Bhagavad Gita Flutter App repository! This project aims to provid
 
 Dive deep into the timeless wisdom of the Bhagavad Gita with our newly developed Flutter app. Designed for both enthusiasts and scholars, this app is packed with features that ensure a seamless and enriching experience:
 
-## 🌐 Multilingual Support: 
+### 🌐 Multilingual Support: 
 Easily switch between languages including Gujarati, Hindi, Sanskrit, and English. The app adapts dynamically, offering you the sacred text in the language of your choice.
 
-## 🎨 Theme Customization: 
+### 🎨 Theme Customization: 
 Personalize your reading experience with our theme change feature. Whether you prefer a light or dark mode, our app has got you covered.
 
-## 📚 Comprehensive Content: 
+### 📚 Comprehensive Content: 
 Access all 18 chapters and 700 shlokas of the Bhagavad Gita. Explore the verses in depth and gain insights into the profound teachings.
 
-## 🔍 User-Friendly Interface: 
+### 🔍 User-Friendly Interface: 
 Our intuitive design ensures easy navigation and a smooth user experience, making it effortless to find and read specific chapters or shlokas.
 
 
