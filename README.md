@@ -3,7 +3,7 @@
 <div align = "center">
 
  
-  ## => Light Theme ⚪
+  ## ⚪ Light Theme 
     
  <div align = "cente">
   <img src = "https://github.com/user-attachments/assets/9e52d577-9a63-4288-9742-7535250541f8"  height=35% width=22%  />
@@ -20,7 +20,7 @@
  
  </div>
 
- ## => Dark Theme ⚫
+ ## ⚫ Dark Theme 
  
 
  <div align = "cente">
