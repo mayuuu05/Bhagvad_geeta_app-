@@ -3,11 +3,12 @@
 <div align = "center">
 
  
-  ### Light Theme
+  ## => Light Theme ⚪
     
  <div align = "cente">
-    <img src = "https://github.com/user-attachments/assets/ec49781b-80c0-41fa-8143-6d775dab05f0"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/48fb89ae-93d6-4c50-a650-59d51fd4331e"  height=35% width=22%  />
+  <img src = "https://github.com/user-attachments/assets/9e52d577-9a63-4288-9742-7535250541f8"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/8e46f7ed-e675-4d65-9953-bdf520a5e7e5"  height=35% width=22%  />
+   
    <img src = "https://github.com/user-attachments/assets/a2af92d0-319f-4bff-9914-2cb4456ac547"  height=35% width=22%  />
  
  </div>
@@ -18,11 +19,12 @@
  
  </div>
 
- ### Dark Theme
+ ## => Dark Theme ⚫
+ 
 
  <div align = "cente">
-    <img src = "https://github.com/user-attachments/assets/9e52d577-9a63-4288-9742-7535250541f8"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/8e46f7ed-e675-4d65-9953-bdf520a5e7e5"  height=35% width=22%  />
+     <img src = "https://github.com/user-attachments/assets/ec49781b-80c0-41fa-8143-6d775dab05f0"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/48fb89ae-93d6-4c50-a650-59d51fd4331e"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/c7df6255-25fb-454a-b421-fd4b69507944"  height=35% width=22%  />
  
  </div>
