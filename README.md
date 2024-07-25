@@ -18,8 +18,7 @@
    <img src = "https://github.com/user-attachments/assets/27d6f948-cbc9-40da-a958-41e1acc5b399"  height=35% width=22%  />
     <img src = "https://github.com/user-attachments/assets/08c4ba49-d252-45b5-8f52-58fc297bc92b"  height=35% width=22%  />
  
- </div>
- ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+ </div> 
  ## ⚫ Dark Theme 
  
 
